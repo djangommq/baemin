@@ -1,4 +1,4 @@
-2018.8.2  马晓腾
+2018.8.2  
 # Baemine 脚本说明
 ### 1. 使用python2
 ### 2. 定时任务cronlab中添加了 baeminApp.py, 目前只有首尔的城市
